@@ -1,6 +1,6 @@
 # gooby.cat
 
-![]("favicon.ico")
+![Photo of my two gooby cats](/goobycats.jpg)
 
 Welcome to gooby.cat! I'm Shay, located nearby Berlin. Currently working for [ViaEurope](https://github.com/viaeurope) and I have some experience in Ruby and Python. Previously, I worked on Kubernetes and some other cloud stuff.
 

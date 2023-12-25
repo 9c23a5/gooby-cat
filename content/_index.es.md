@@ -1,6 +1,6 @@
 # gooby.cat
 
-![Photo of my two gooby cats]("/goobycats.jpg")
+![Photo of my two gooby cats](/goobycats.jpg)
 
 Bienvenid@ a gooby.cat! Soy Shay y vivo cerca de Berlin. Actualmente trabajo en [ViaEurope](https://github.com/viaeurope) y tengo algo de experiencia en Ruby y Python. Previamente he trabajado con Kubernetes y algunas cosas en cloud.
 
