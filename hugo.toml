@@ -1,0 +1,44 @@
+baseURL = "https://gooby.cat/"
+DefaultContentLanguage = "en"
+enableInlineShortcodes = true
+paginate = 3
+
+theme = "risotto"
+
+title = "gooby.cat"
+author = "Shay"
+sectionPagesMenu = "main"
+
+[params.theme]
+palette = "base16-dark"
+
+[params.about]
+title = "gooby.cat"
+logo = "android-chrome-192x192.png"
+
+[[params.socialLinks]]
+icon = "fa-brands fa-github"
+title = "GitHub"
+url = "https://github.com/9c23a5"
+
+[[params.socialLinks]]
+icon = "fa-solid fa-envelope"
+title = "Email"
+url = "mailto:hi@gooby.cat"
+
+[taxonomies]
+project = "projects"
+tag = "tags"
+
+[languages]
+[languages.en]
+languageName = "English"
+weight = 1
+
+[languages.es]
+languageName = "Español"
+weight = 2
+
+[languages.ca]
+languageName = "Català"
+weight = 3
