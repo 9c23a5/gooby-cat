@@ -1,6 +1,6 @@
 # gooby.cat
 
-![Foto dels meus dos "gooby cats"](/goobycats.jpg)
+![Foto dels meus dos gooby cats](/goobycats.jpg)
 
 Benvinguts a gooby.cat! Sóc Shay i visc a prop de Berlin. Actualment treballo a [ViaEurope](https://github.com/viaeurope) i tinc una mica d'experiència amb Ruby i Python. Prèviament he treballat amb Kubernetes i algunes coses de cloud.
 

@@ -4,9 +4,9 @@
 
 Welcome to gooby.cat! I'm Shay, located nearby Berlin. Currently working for [ViaEurope](https://github.com/viaeurope) and I have some experience in Ruby and Python. Previously, I worked on Kubernetes and some other cloud stuff.
 
-Enjoy your stay :)
+_Enjoy your stay_ :)
 
-## Projectes
+## Projects
 
 * **Animal of the Week:** A Ruby on Rails application for displaying the silly cat of the week! [Source code](https://github.com/9c23a5/animal-otw) // [Blog posts]()
 
